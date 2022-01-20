@@ -18,7 +18,7 @@ body {
     width: 60em;
     height: 40em;
 
-    background-color: blue;
+   
 }
 
 .parteArriba {
@@ -26,7 +26,7 @@ body {
     flex-direction: column;
 
     height: 12em;
-    background-color: pink;
+    
 }
 
 .parteAbajo {
@@ -34,29 +34,29 @@ body {
     flex-direction: row;
 
     height: 28em;
-    background-color: green;
+    
 }
 
 .parteArribaImagen {
     height: 10em;
 
-    background-color: orange;
+    
 }
 
 .parteArribaTitular {
     height: 2em;
 
-    background-color: gray;
+   
 }
 
 .parteAbajoIzquierda {
     width: 10em;
 
-    background-color: lime;
+    
 }
 
 .parteAbajoDerecha {
     width: 50em;
 
-    background-color: red;
+    
 }
